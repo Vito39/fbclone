@@ -1,0 +1,128 @@
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/routes/user.js:51:61\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/Middleware/asyncMiddleware.js:4:7"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/routes/user.js:51:61\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/Middleware/asyncMiddleware.js:4:7"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"GroupModel.findOneAndRemove is not a function GroupModel.findOneAndRemove is not a function","stack":"TypeError: GroupModel.findOneAndRemove is not a function\n    at /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/routes/profile.js:212:22\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/Middleware/asyncMiddleware.js:4:7"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/routes/user.js:51:61\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /home/anon/Desktop/ReactPro/facebookpro/fb-clone-backend/Middleware/asyncMiddleware.js:4:7"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"Cannot read property '_id' of null Cannot read property '_id' of null","stack":"TypeError: Cannot read property '_id' of null\n    at router.get.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/profile.js:55:21)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:35:36)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:59:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:59:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:59:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:35:36)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:62:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:62:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:62:44)"}
+{"level":"error","message":"Configuration property \"secretKey\" is not defined Configuration property \"secretKey\" is not defined","stack":"Error: Configuration property \"secretKey\" is not defined\n    at Config.get (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/node_modules/config/lib/config.js:182:11)\n    at model.userSchema.methods.genToken (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/models/user.js:28:12)\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:62:44)"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:54:61)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:54:61)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:54:61)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"level":"error","message":"Cannot read property 'profile_id' of null Cannot read property 'profile_id' of null","stack":"TypeError: Cannot read property 'profile_id' of null\n    at router.post.asyncMiddleware (/home/kamal/Desktop/clone/FbCLone/fb-clone-backend/routes/user.js:54:61)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
+{"message":"Listening to 5000...","level":"info"}
+{"message":"Connected to Database","level":"info"}
